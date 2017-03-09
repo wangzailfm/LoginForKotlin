@@ -1,4 +1,4 @@
-package com.jowan.kotlin.uitls
+package cn.jowan.logintest.util
 
 import cn.jowan.logintest.constant.Constant
 import cn.jowan.logintest.loge

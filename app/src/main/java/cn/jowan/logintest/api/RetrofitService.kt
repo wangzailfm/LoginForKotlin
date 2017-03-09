@@ -1,4 +1,4 @@
-package com.jowan.kotlin.apis
+package cn.jowan.logintest.api
 
 import cn.jowan.logintest.bean.LoginResponse
 import cn.jowan.logintest.bean.RegisterResponse
