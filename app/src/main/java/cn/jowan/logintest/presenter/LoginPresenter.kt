@@ -37,7 +37,14 @@ interface LoginPresenter {
      * 注册接口
      */
     interface onRegisterListener {
+        /**
+         * 注册成功
+         */
         fun registerSuccess(result: RegisterResponse)
+
+        /**
+         * 注册失败
+         */
         fun registerFailed(message: String?)
     }
 }
