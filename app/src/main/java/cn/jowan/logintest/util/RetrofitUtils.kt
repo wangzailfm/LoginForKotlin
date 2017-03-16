@@ -1,9 +1,9 @@
 package cn.jowan.logintest.util
 
+import cn.jowan.logintest.api.RetrofitService
 import cn.jowan.logintest.constant.Constant
 import cn.jowan.logintest.loge
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
-import com.jowan.kotlin.apis.RetrofitService
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

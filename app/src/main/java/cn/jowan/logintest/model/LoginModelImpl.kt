@@ -1,7 +1,7 @@
 package cn.jowan.logintest.model
 
 import cn.jowan.logintest.presenter.LoginPresenter
-import com.jowan.kotlin.uitls.RetrofitUtils
+import cn.jowan.logintest.util.RetrofitUtils
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 
